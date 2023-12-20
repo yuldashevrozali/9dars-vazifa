@@ -1,0 +1,38 @@
+{
+    "uz": {
+        "translation": {
+            "home": "Uy",
+            "us": "Biz haqimizda",
+            "Locations": "Joylar",
+            "FAQs": "Savollar",
+            "button":"Bog'lanish",
+            "text": "Sevgi va mehr hech qachon zoe ketmaydi.",
+            "btn": "Bizga qo'shiling",
+            "info": "Biz har yili 1 00 000 dan ortiq mushuk va mushukchalarga yordam beramiz, 200 dan ortiq ko'ngillilar tomonidan boshqariladigan filiallarimiz tarmog'imiz tufayli."
+        }
+    },
+    "en": {
+        "translation": {
+            "home": "Home",
+            "us": "About us",
+            "Locations": "Locations",
+            "FAQs": "FAQs",
+            "button": "Contact Us",
+            "text": "Love and kindness are never wasted.",
+            "btn": "Join Us",
+            "info": "We help around 1,00,000+ cats and kittens every year thanks in no small part to our network of over 200+ volunteer-run branches."
+        }
+    },
+    "ru": {
+        "translation": {
+            "home": "дом",
+            "us": "О нас",
+            "Locations": "Локации",
+            "FAQs": "вопросы",
+            "button": "Связь",
+            "text": "Любовь и доброта никогда не пропадают даром.",
+            "btn": "Присоединяйтесь к нам",
+            "info": "Ежегодно мы помогаем более 1 00 000 кошкам и котятам, во многом благодаря нашей сети из более чем 200 филиалов, управляемых волонтерами."
+        }
+    }
+}

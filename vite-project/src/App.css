@@ -1,0 +1,110 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    /* background: #6DFC56; */
+}
+
+.block {
+    background: #6DFC56;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 165px;
+}
+
+.header-logo p {
+    color: #13390D;
+    font-family: IBM Plex Mono;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-right: 449px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+.menu ul li {
+    color: #13390D;
+    text-align: right;
+    font-family: IBM Plex Mono;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+
+}
+
+button {
+    padding: 12px 22px 12px 24px;
+    color: #13390D;
+    text-align: center;
+    font-family: IBM Plex Mono;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+    border: none;
+    background: #6DFC56;
+    border: 1px solid #13390D;
+}
+
+.hero-left h1 {
+    color: #13390D;
+    font-family: IBM Plex Mono;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 500px;
+    margin-left: 165px;
+    margin-top: 108px;
+}
+
+.hero-left p {
+    width: 500px;
+    margin-left: 165px;
+    margin-top: 20px;
+    color: rgba(19, 57, 13, 0.70);
+    font-family: IBM Plex Mono;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.btn1{
+    margin-left: 165px;
+    /* margin-bottom: 168px; */
+}
+
+select{
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: white;
+
+}
+
+option{
+    background-color: #6DFC56;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+}
